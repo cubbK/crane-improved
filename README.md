@@ -1,2 +1,0 @@
-# macaraImproved
-Created with CodeSandbox
